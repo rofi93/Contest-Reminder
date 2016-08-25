@@ -1,0 +1,27 @@
+
+
+Version:	3.9
+CmdLine:	H:\Netbeans\Contest Reminder\setup\Contest Reminder.exe --l4j-debug
+WOW64:		no
+Working dir:	H:\Netbeans\Contest Reminder\setup\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_101
+Check launcher:	C:\Program Files\Java\jre1.8.0_101\bin\javaw.exe (OK)
+Match:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_102
+Check launcher:	C:\Program Files\Java\jre1.8.0_102\bin\javaw.exe (OK)
+Match:		1.8.0_102
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_60
+Ignore:		1.8.0_060
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_25
+Ignore:		1.8.0_025
+Runtime used:	1.8.0_102 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_102\bin\javaw.exe
+Launcher args:	-jar "H:\Netbeans\Contest Reminder\setup\Contest Reminder.exe"
+Args length:	62/32768 chars
+Exit code:	0
